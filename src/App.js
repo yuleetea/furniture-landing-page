@@ -21,10 +21,11 @@ function App() {
         <body>
           <ServicesHeader />
           <ServicesOne />
-          <ContactForm />
           <Divider variant="inset" />
           <LocationHeader />
           <GoogleMaps />
+          <ContactForm />
+
           <footer
             style={{
               backgroundColor: "black",
